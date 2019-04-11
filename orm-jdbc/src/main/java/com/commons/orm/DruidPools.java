@@ -7,7 +7,7 @@ import com.commons.orm.dao.IConnection;
 import com.commons.orm.sql.EntityParse;
 
 /**
- * @Description: Druid连接池
+ * @Description: Druid连接池1
  * @author hang
  * @date 2016-5-11 上午10:33:48
  * @version V1.7
